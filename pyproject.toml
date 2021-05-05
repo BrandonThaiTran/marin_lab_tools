@@ -6,6 +6,8 @@ authors = ["BrandonThaiTran <xbrandonthaitran@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+opencv-python = "^4.5.1"
+jupyterlab = "^3.0.14"
 
 [tool.poetry.dev-dependencies]
 
